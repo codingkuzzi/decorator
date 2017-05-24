@@ -5,6 +5,18 @@ img {
 
 
 .column {
-  width: 400px;
+  width: 200px;
   float: left;
+    }
+
+.rose {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.green {
+  background-color: green;
 }
